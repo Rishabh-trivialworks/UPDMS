@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/ic_store_black_36dp"
+            android:title="@string/str_home" />
+        <item
+            android:id="@+id/nav_nirman"
+            android:visible="false"
+            android:icon="@mipmap/ic_chat_black_36dp"
+            android:title="@string/str_construction_worker" />
+        <item
+            android:id="@+id/nav_domestic"
+            android:visible="false"
+            android:icon="@mipmap/ic_chat_black_36dp"
+            android:title="@string/str_domestic_worker" />
+        <item
+            android:id="@+id/nav_verify"
+            android:icon="@mipmap/ic_chat_black_36dp"
+            android:title="@string/str_verify" />
+        <item
+            android:id="@+id/nav_feestatus"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="@string/str_fees_status" />
+
+        <item
+            android:id="@+id/nav_nodal"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="@string/str_manage_nodal" />
+        <item
+            android:id="@+id/nav_totalregistration"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="@string/str_total_reg_status" />
+        <item
+            android:id="@+id/nav_addads"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="@string/str_add_advertisement" />
+        <item
+            android:id="@+id/nav_cardvalidity"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="@string/str_status_card_expire" />
+        <item
+            android:id="@+id/nav_latestupdate"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="नवीनतम अद्यतन" />
+
+        <item
+            android:id="@+id/nav_helplineno"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="हेल्पलाइन नंबर" />
+
+        <item
+            android:id="@+id/nav_songs"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="गाने" />
+        <item
+            android:id="@+id/nav_membershipcard"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="@string/str_print_membershsip_card" />
+        <item
+            android:id="@+id/nav_registrationcard"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="@string/str_print_fees_slip" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@mipmap/ic_settings_black_36dp"
+            android:title="@string/str_logout" />
+    </group>
+</menu>

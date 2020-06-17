@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">UPDMS</string>
+    <string name="no_internet">Please make sure you are connected to the internet.</string>
+    <string name="please_try_later">Try Again</string>
+    <string name="email_id">Email Id</string>
+
+    <string name="panjikaran_nahi_hai">पंजीकरण नहीं है?</string>
+    <string name="mobile_no">मोबाइल नंबर</string>
+    <string name="log_in_kre">लॉग इन करें</string>
+    <string name="apna_password_bhool_gye">अपना पासवर्ड भूल गए हैं ?</string>
+    <string name="str_year">साल</string>
+    <string name="str_month">महीना</string>
+
+    <string name="log_in">LOG IN</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="ok">Ok</string>
+
+    <string name="upyogkart_ka_prakar">उपयोगकर्ता का प्रकार</string>
+    <string name="username">यूजरनेम</string>
+    <string name="password">पासवर्ड</string>
+
+    <string name="panjikaran">पंजीकरण</string>
+    <string name="ling">लिंग</string>
+    <string name="division">डिवीजन</string>
+    <string name="district">जिला</string>
+    <string name="membership_old_new">संगठन की सदस्यता नई या पुरानी</string>
+    <string name="identity_card">पहचान पत्र(मतदाता पहचान पत्र/आधार कार्ड/पैन कार्ड/ड्राइविंग लाइसेंस</string>
+    <string name="vyvsay">व्यवसाय :</string>
+    <string name="permanent_address">स्थाई पता:</string>
+    <string name="local_address">स्थानीय पता:</string>
+    <string name="str_aadhar_number">आधार संख्या</string>
+    <string name="str_active">सक्रिय करें</string>
+    <string name="str_active_status">सक्रिय स्थिति</string>
+    <string name="str_add_advertisement">विज्ञापन जोड़ें</string>
+    <string name="str_approved_for_admin">व्यवस्थापक के लिए स्वीकृत</string>
+    <string name="str_dms_address2_hint">आवेदक का अस्थायी/पत्र व्यवहार का पता<font color="#ff0000">
+<bold>*</bold></font></string>
+    <string name="str_change_details">अपना विवरण बदलें</string>
+    <string name="str_construction_worker">निर्माण मजदूर</string>
+    <string name="str_copyright">Copyright 2019 @ version 1.0</string>
+    <string name="str_dashboard">डैशबोर्ड</string>
+    <string name="str_data_saved_successfully">डेटा को सफलतापूर्वक सहेजा गया है।</string>
+    <string name="str_data_synch">कृपया अनिवार्य डेटा के लिए सिंक किए गए आइकन पर क्लिक करें।</string>
+    <string name="str_date_of_birth">जन्म तिथि(YYYY-MM-DD)</string>
+    <string name="str_deactive">निष्क्रिय करें</string>
+    <string name="str_district">जिला</string>
+    <string name="str_division">डिवीजन</string>
+    <string name="str_dms_adda_name">लेबर अड्डे का नाम</string>
+    <string name="str_dms_address1">आवेदक का अस्थायी/पत्र व्यवहार का पता</string>
+    <string name="str_dms_address2">आवेदक का स्थायी पता</string>
+    <string name="str_dms_age">उम्र(सालों में)</string>
+    <string name="str_dms_caste">जाति</string>
+    <string name="str_dms_date">दिनांक</string>
+    <string name="str_dms_designation">पद</string>
+    <string name="str_dms_dmsl">दिहाड़ी मजदूर संगठन,उ०प्र०,लखनऊ</string>
+    <string name="str_dms_education">शैक्षिक योग्यता</string>
+    <string name="str_dms_emergancyno">इमरजेंसी नम्बर(किसी सम्बन्धी का)</string>
+    <string name="str_dms_father_name">पिता का नाम</string>
+    <string name="father_husband">पिता/पति का नाम :</string>
+    <string name="str_dms_final_registrationbutton">अंतिम पंजीकरण</string>
+    <string name="str_dms_how_old_registered">यदि हाॅ तो कितनी पुरानी(वर्षो में)</string>
+    <string name="str_dms_husband_name">पति/पत्नी का नाम</string>
+    <string name="str_dms_identity_proof">पहचान पत्र(मतदाता पहचान पत्र/आधार कार्ड/पैन कार्ड/ड्राइविंग लाइसेंस</string>
+    <string name="str_dms_is_labour_new_old">संगठन की सदस्यता नई या पुरानी</string>
+    <string name="str_dms_is_labour_registred">श्रमिक पंजीयन है?</string>
+    <string name="str_dms_jila">जिला</string>
+    <string name="str_dms_letter">दिहाड़ी मजदूर संगठन सदस्यता आवेदन पत्र</string>
+    <string name="str_dms_mobileno">मोबाइल नम्बर</string>
+    <string name="str_dms_mother_name">माता का नाम</string>
+    <string name="str_dms_mr_mrs">मैं श्री/श्रीमती</string>
+    <string name="str_dms_name">नाम</string>
+    <string name="str_dms_payment_amount">दिहाड़ी मजदूर संगठन की सदस्यता ली और सदस्यता शुल्क रू0 120 जमा किया।</string>
+    <string name="str_dms_pincode">पिन कोड</string>
+    <string name="str_dms_postoffice">पो0</string>
+    <string name="str_dms_reciept">प्राप्त रसीद</string>
+    <string name="str_dms_reciept_collector">प्राप्त कर्ता</string>
+    <string name="str_dms_register">डीएमएस पंजीकरण</string>
+    <string name="str_dms_registrationbutton">पंजीकरण</string>
+    <string name="str_dms_registrationno">पंजीयन संख्या</string>
+    <string name="str_dms_regno">रजि0 न0</string>
+    <string name="str_dms_related_person">व्यक्ति से सम्बन्ध</string>
+    <string name="str_dms_sign">आवेदक के हस्ताक्षर/अगूॅठे का निशान</string>
+    <string name="str_dms_sign2">हस्ताक्षर</string>
+    <string name="str_dms_son_father_wife">पुत्र/पति/पत्नी</string>
+    <string name="str_dms_state">राज्य</string>
+    <string name="str_dms_thana">थाना</string>
+    <string name="str_dms_typeof_labour">श्रमिक के रोजगार का प्रकार</string>
+    <string name="str_dms_village">गाॅव</string>
+    <string name="str_domestic_worker">घरेलु मजदूर</string>
+    <string name="str_don_t_have_an_account">पंजीकरण नहीं है?</string>
+    <string name="str_emailid">ईमेल आईडी</string>
+    <string name="str_emailid_empty">ईमेल आईडी खाली है!</string>
+    <string name="str_family_members">परिवार के सदस्यों का नाम</string>
+    <string name="str_fees_status">फीस की स्थिति</string>
+    <string name="str_forget_your_password">अपना पासवर्ड भूल गए हैं ?</string>
+    <string name="str_gender">लिंग</string>
+    <string name="str_home">होम</string>
+    <string name="str_identity_number">पहचान संख्या</string>
+    <string name="str_list_of_workers_for_verify">सत्यापन के लिए श्रमिकों की सूची</string>
+    <string name="str_log_in">लॉग इन करें</string>
+    <string name="str_logout">लोग आउट</string>
+    <string name="str_manage_nodal">नोडल का प्रबंधन करें</string>
+    <string name="str_mandetory_data">अनिवार्य डेटा</string>
+    <string name="str_mobileno">मोबाइल नंबर</string>
+    <string name="str_mobileno_empty">मोबाइल नंबर रिक्त है!</string>
+    <string name="str_name_empty">नाम खाली है!</string>
+    <string name="str_no_internet">कोई इंटरनेट कनेक्शन उपलब्ध नहीं है!</string>
+    <string name="str_no_internet_save_offline">कोई इंटरनेट कनेक्शन नहीं। कृपया अपने डेटा को बचाने के लिए ऑफलाइन मोड का चयन करें और इंटरनेट उपलब्ध होने पर उसे सिंक करें।</string>
+    <string name="str_nodal_name">नोडल का नाम</string>
+    <string name="str_nodal_userid">नोडल की यूजरआई.डी.</string>
+    <string name="str_not_verified_by_admin">व्यवस्थापक ने प्रोफ़ाइल सत्यापित नहीं की है।</string>
+    <string name="str_offline_data">ऑफ़लाइन डेटा</string>
+    <string name="str_offline_mode">ऑफ़लाइन मोड</string>
+    <string name="str_ok">ठीक</string>
+    <string name="str_online_mode">ऑनलाइन मोड</string>
+    <string name="str_password">पासवर्ड</string>
+    <string name="str_password_empty">पासवर्ड रिक्त है!</string>
+    <string name="str_print_fees_slip">प्रिंट फीस स्लिप</string>
+    <string name="str_print_membershsip_card">सदस्यता कार्ड प्रिंट करें</string>
+    <string name="str_register">पंजीकरण</string>
+    <string name="str_registration_date">पंजीकरण की तारीख(YYYY-MM-DD)</string>
+    <string name="str_relationship">संबंध</string>
+    <string name="str_renew_date">नवीनीकृत दिनांक(YYYY-MM-DD)</string>
+    <string name="str_role">भूमिका</string>
+    <string name="str_save">सहेजें</string>
+    <string name="str_saved_offline">ऑफ़लाइन डेटा सफलतापूर्वक सहेजे गए हैं। जारी रखने के लिए ठीक क्लिक करें।</string>
+    <string name="str_saved_success_click_to_continue">ऑनलाइन डेटा सफलतापूर्वक सहेजे गए हैं। जारी रखने के लिए ठीक क्लिक करें।</string>
+    <string name="str_status_card_expire">कार्ड समाप्ति की स्थिति</string>
+    <string name="str_status_verified_by_admin">व्यवस्थापक द्वारा सत्यापित की स्थिति</string>
+    <string name="str_status_verified_by_nodal">नोडल द्वारा सत्यापित की स्थिति</string>
+    <string name="str_synch_data">सिंक डेटा</string>
+    <string name="str_synch_not_properly">ठीक से सिंक्रनाइज़ नहीं है</string>
+    <string name="str_total_late_fees">कुल लेट फीस</string>
+    <string name="str_total_mem_fees">कुल सदस्यता शुल्क</string>
+    <string name="str_total_member">कुल सदस्य</string>
+    <string name="str_total_reg_fees">कुल पंजीकरण शुल्क</string>
+    <string name="str_total_reg_status">कुल पंजीकरण स्थिति</string>
+    <string name="str_total_registered_worker">कुल पंजीकृत कार्यकर्ता</string>
+    <string name="str_total_registration">कुल पंजीकरण</string>
+    <string name="str_try_after_sometime">कृपया कुछ देर बाद प्रयास करें...</string>
+    <string name="str_type_of_worker">कार्यकर्ता प्रकार</string>
+    <string name="str_update_profile">प्रोफ़ाइल डेटा अपडेट करें</string>
+    <string name="str_updated_successfully">अपडेट सफलतापूर्वक हुआ।</string>
+    <string name="str_userid">यूज़र आईडी</string>
+    <string name="str_username">यूजरनेम</string>
+    <string name="str_username_empty">उपयोगकर्ता नाम रिक्त है!</string>
+    <string name="str_usertype">उपयोगकर्ता का प्रकार</string>
+    <string name="str_verify">सत्यापित करें</string>
+    <string name="str_verify_by_nodal">नोडल द्वारा सत्यापित करें</string>
+    <string name="str_verify_fees_by_admin">व्यवस्थापक द्वारा सत्यापित</string>
+    <string name="str_verify_fees_by_nodal">नोडल द्वारा फीस सत्यापन</string>
+    <string name="str_verify_worker">कार्यकर्ता का सत्यापन करें</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <string name="please_wait">कृपया प्रतीक्षा करें</string>
+    <string name="please_choose_option">कृपया अपना विकल्प चुनें</string>
+    <string name="membership_card">सदस्यता कार्ड </string>
+    <string name="validity">वैधता :</string>
+    <string name="seriol_no">क्रमांक :</string>
+
+    <string name="rule_niyam">शर्तें/नियम:</string>
+    <string name="card_back_1">* मैं संगठन के द्वारा की गयी जिम्मेदारियों को पूरी तरह निभाऊँगा/निभाऊँगी।</string>
+    <string name="card_back_2">* मैं हमेशा दिहाड़ी मज़दूर संगठन के पक्ष में बात करूँगा/करूँगी।</string>
+    <string name="card_back_3">* मैं किसी भी प्रकार के भेदभाव से ऊपर उठकर संगठन के लिए काम करूँगा/करूँगी।</string>
+    <string name="card_back_4">* नियमित रूप से सदस्यता शुल्क देकर संगठन की बैठकों में सहभागिता करूँगा/करूँगी।</string>
+    <string name="card_back_5">* मैं सदस्यता कार्ड का किसी भी स्थिति में दुरूपयोग नहीं करूँगा/करूँगी।</string>
+    <string name="card_back_6">* मैंने, दिहाड़ी मज़दूर संगठन की सभी शर्तें ध्यान पूर्वक जान ली हैं, मैं इसमें
+                    पूर्णतया सहमत हूँ तथा सदस्यता हेतु 50 रूपये  करता/करती हूँ।</string>
+    <string name="president">अध्यक्ष</string>
+    <string name="secetry">सचिव</string>
+    <string name="str_yes">हाँ</string>
+    <string name="str_no">नहीं</string>
+    <string name="str_dms_name_hint">नाम<font color="#ff0000">
+<bold>*</bold></font></string>
+    <string name="str_dms_father_name_hint">पिता का नाम<font color="#ff0000">
+<bold>*</bold></font></string>
+    <string name="str_dms_mother_name_hint">माता का नाम<font color="#ff0000">
+<bold>*</bold></font></string>
+    <string name="str_dms_typeof_labour_hint">श्रमिक के रोजगार का प्रकार<font color="#ff0000">
+<bold>*</bold></font></string>
+    <string name="str_dms_address1_hint">आवेदक का अस्थायी/पत्र व्यवहार का पता<font color="#ff0000">
+<bold>*</bold></font></string>
+    <string name="edit_profile_pic">Set your profile picture</string>
+    <string name="select">Choose a New Photo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="str_trade_union">ट्रेड यूनियन रजिस्ट्रेशन संख्या: </string>
+
+    <string name="str_slip">प्राप्त रसीद</string>
+    <string name="str_note">मैं श्री/श्रीमती %s पुत्र/पति/पत्नी रबरबबरब दिहाड़ी मजदूर संगठन की सदस्यता ली और सदस्यता शुल्क रू0 50 जमा किया।</string>
+    <string name="str_memeersipid">सदस्यता आईडी :</string>
+    <string name="str_getter">प्राप्त कर्ता </string>
+    <string name="str_signature">हस्ताक्षर:</string>
+    <string name="str_post">पद:</string>
+    <string name="str_dinak">दिनांक:</string>
+    <string name="enter_your_reason">अपने कारण दर्ज करें</string>
+    <string name="latestupdate">नवीनतम अद्यतन</string>
+    <string name="helplineno">हेल्पलाइन नंबर</string>
+    <string name="adminreason">व्यवस्थापक कारण</string>
+    <string name="rejectvia_admin">व्यवस्थापक द्वारा अस्वीकार करें</string>
+    <string name="str_songs_title">गीत</string>
+    <string name="trouble_in_signup">अगर पंजीकरण करने में कोई परेशानी आ रही हो तो कृपया अपने जिले के नोडल से संपर्क करें। </string>
+    <string name="rejectvia_nodal">नोडल द्वारा अस्वीकार करें</string>
+    <string name="renew_membership">नवीनीकृत सदस्यता</string>
+</resources>

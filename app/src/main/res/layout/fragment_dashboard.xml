@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/border_white"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewTop1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
+        android:gravity="center_horizontal"
+        android:text="दिहाड़ी मज़दूर संगठन, उत्तर प्रदेश"
+        android:textColor="#ed1b24"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:scrollbars="none"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="left"
+                android:text="&gt;&gt; दिहाड़ी मज़दूर संगठन असंगठित क्षेत्र में काम करने वाले तथा रोज कमाने खाने वाले श्रमिक साथियों का एक संगठन है जो उन्हें संगठित करते हुए उनकी समस्याओं के प्रति निरन्तर श्रम विभाग के प्रतिनिधियों से संवाद स्थापित कर उनके निराकरण का प्रयास करता रहा है।  &gt;&gt; यह संगठन लखनऊ शहर के 20 कानपुर शहर के 15 लेबर अड्डों व उसके आस पास की श्रमिक बस्तियों में काम करता है।  &gt;&gt; वर्तमान समय में 3000 से ज्यादा मज़दूर साथी लखनऊ शहर में संगठन के साथ मिलकर योजनाओं के प्रचार प्रसार में मदद कर रहे है।  &gt;&gt; इस संगठन की वर्तमान में लखनऊ में 12 और कानपुर में 5 ईकाइयॉ है। चिनहट, मुलायमनगर, तकरोही, सी-ब्लाक, खुर्रमनगर, यूनिटीसिटी, इंजीनियरिग कालेज, प्रीतिनगर, त्रिवेणीनगर, पत्रकारपुरम्, तेलीबाग, बाराबिरवा लेबर अड्डे पर इकाई कमेटी के सदस्य अपनी समस्याओं को लेकर निरन्तर प्रयासरत है।  &gt;&gt; संगठन शहर में बने 23 रैन बसेरों में से चिनहट, सी-ब्लाक, तेलीबाग, ताड़ीखाना, इंजीनियरिंग कालेज, श्रमिक सेवाश्रम निशातगंज में रहने वाले श्रमिकों के साथ भी काम करता है।  &gt;&gt; संगठन अपने सभी सदस्यों के सामाजिक सुरक्षा के लिए भवन निर्माण कार्य में लगे साथियों का पंजीकरण भवन एवं अन्य सन्निर्माण कर्मकार अधिनियम 1996 के अन्तर्गत श्रम विभाग से कराने में सहयोग प्रदान करता है।  &gt;&gt; संगठन द्वारा अब तक 1500 श्रमिकों को कानून की जानकारी प्रदान कर श्रम विभाग में सहयोग दिया जा चुका है। &gt;&gt; मज़दूरों की बकाया मज़दूरी दिलाने हेतु संगठन उन्हें कानूनी जानकारी प्रदान करता है तथा उनके सुख दुःख का साथी है।"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center_horizontal"
+                android:text="ये असंगठित श्रमिक कौन है और कितने है ?"
+                android:textColor="#e26002"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="left"
+                android:text="भवन निर्माण श्रमिक ,घरेलू कामगार ,कूड़ा बीनने वाले, पटरी दुकानदार, रिक्शा चालक, पल्लेदार, छोटे -छोटे काम करने वाले आदि श्रमिक असंगठित क्षेत्र के श्रमिक है। इसी असंगठित क्षेत्र का सबसे बड़ा हिस्सा निर्माण मज़दूरों का है। लखनऊ शहर में अनुमानित 2 लाख मज़दूर लेबर अड्डज्ञें पर प्रति दिन रोजगार की तलाश में खड़े होते है। ये मूलतः निर्माण श्रमिक होते है। महीने में इन्हे लगभग 15 से 20 दिन का रोजगार प्राप्त होता है। इस तरह से साल भर में लगभग 180 दिन का कार्य करते है। ये श्रमिक आदिवासी, दलित, पिछड़ी जाति के अल्पसंख्यक, प्रवासी, आवासहीन, भूमिहीन घुमन्तू चरित्र के मज़दूर है।"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center_horizontal"
+                android:text="दिहाड़ी मज़दूर संगठन के कार्य....."
+                android:textColor="#e26002"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="left"
+                android:text="&gt;&gt; श्रमिकों को उनके हक अधिकारों के बारे में जागरूक करना।  &gt;&gt; कोर सदस्यों की सोच समझ व क्षमता को बढ़ाना।  &gt;&gt; श्रमिकों के चलायी जाने वाली सरकारी योजनाओं के प्रचार के लिए अभियान।  &gt;&gt; समय समय पर क्षमता बढ़ाने वाली बैठके करना।  &gt;&gt; संगठन के साथियों के साथ सांस्कृतिक कार्यक्रमों का आयोजन करना।  &gt;&gt; श्रमिकों की समस्याओं पर श्रम विभाग व सरकार के प्रतिनिधियों से निरन्तर संवाद स्थापित करना।  &gt;&gt; सदस्यों का वार्षिक सम्मेलन करना।  &gt;&gt; मज़दूर दिवस पर व अन्य सामाजिक अवसरों पर कार्यक्रम का आयोजन करना।"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center_horizontal"
+                android:text="दिहाड़ी मज़दूर संगठन की सदस्यता प्रक्रिया के बारे में....."
+                android:textColor="#e26002"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="left"
+                android:text="&gt;&gt; भवन निर्माण में काम करने वाला कोई श्रमिक इसका सदस्य बन सकता है।  &gt;&gt; संगठन का सदस्यता शुल्क 20 रूपये वार्षिक है।  &gt;&gt; यह सदस्यता 1 साल तक मान्य है और उसके बाद सदस्य को नवीनीकरण कराना होता है।  &gt;&gt; सदस्यों को संगठन की बैठकों में आना अनिवार्य है।  &gt;&gt; संगठन के सदस्य इकाई चुनाव में किसी भी पद पर लंड सकते है।  &gt;&gt; मासिक बैठकों में संगठन के कार्य पर अपना सुझाव दे सकते है।"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center_horizontal"
+                android:text="दिहाड़ी मज़दूर संगठन की सदस्यता से फायदा....."
+                android:textColor="#e26002"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="left"
+                android:text="&gt;&gt; संगठन से जुड़ने से श्रमिक के रूप में पहचान बढ़ेगी।  &gt;&gt; संगठन श्रम विभाग द्वारा किये जाने वाले मज़दूर पंजीकरण में सहयोग कर सकेगा।  &gt;&gt; बकाया मज़दूरी का भुगतान प्राप्त करने के लिए संगठन के स्तर पर सामूहिक प्रयास कर सकेगा।  &gt;&gt; आपको अपनी बात कहने व जिम्मेदार प्रतिनिधियों के समक्ष अपनी समस्या को रखने का मंच मिलेगा।  &gt;&gt; संगठन आपकों श्रम विभाग द्वारा चलायी जा रही योजनाओं से जोड़ने हेतु सामूहिक प्रयास करेगा।  &gt;&gt; सरकार द्वारा श्रमिकों के हित में चलाई जा रही लाभकारी योजनाओं की जानकारी प्राप्त हो सकेगी।  &gt;&gt; किसी भी समस्या के लिए टोल फ्री नम्बर 18001805412 पर काल करें"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
