@@ -21,6 +21,12 @@
         <item>नई</item>
         <item>पुरानी</item>
     </array>
+    <array name="array_caste">
+        <item>सामान्य</item>
+        <item>अनुसूचित जाति</item>
+        <item>अनुसूचित जनजाति</item>
+        <item>अन्य पिछड़ा वर्ग</item>
+    </array>
     <array name="array_employment">
         <item>वेल्डिंग का काम</item>
         <item>बढ़ई का काम</item>

@@ -571,21 +571,18 @@
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/inputLayoutCaste"
-                app:errorTextAppearance="@style/error"
                 android:textColorHint="@color/gray_1">
 
-                <EditText
-                    android:id="@+id/editTextCaste"
+                <Spinner
+                    android:id="@+id/spinnerCaste"
+                    style="@style/Widget.AppCompat.Spinner.Underlined"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:backgroundTint="@color/transparent_10"
-                    android:hint="@string/str_dms_caste"
-                    android:inputType="text"
                     android:paddingLeft="10dp"
-                    android:text=""
+                    android:prompt="@string/str_dms_caste"
                     android:textColor="@color/black"
-                    android:textSize="16sp" />
+                    android:textSize="16sp"
+                    app:backgroundTint="@color/transparent_10" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputLayout

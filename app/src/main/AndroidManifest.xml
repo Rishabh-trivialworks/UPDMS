@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.updms">
+    package="com.govt.updms">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -15,7 +15,7 @@
     <uses-feature android:name="android.hardware.camera.flash" />
 
     <application
-        android:name=".MyApplication"
+        android:name="com.govt.updms.MyApplication"
         coreApp="true"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -26,7 +26,7 @@
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
-            android:name=".MainActivity"
+            android:name="com.govt.updms.MainActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -37,23 +37,23 @@
 
 
         <activity
-            android:name=".LoginActivity"
+            android:name="com.govt.updms.LoginActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateVisible|adjustPan" />
 
         <activity
-            android:name=".WorkerNewHomePageActivity"
+            android:name="com.govt.updms.WorkerNewHomePageActivity"
             android:screenOrientation="portrait"
              />
         <activity
-            android:name=".HomeActivity"
+            android:name="com.govt.updms.HomeActivity"
             android:screenOrientation="portrait" />
 
         <activity
-            android:name=".SignUpActivity"
+            android:name="com.govt.updms.SignUpActivity"
             android:screenOrientation="portrait" />
 
-        <provider
+            <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.provider"
             android:exported="false"

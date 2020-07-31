@@ -2,7 +2,7 @@
 <paths>
     <external-path
         name="my_images"
-        path="Android/data/com.example.updms/files/Pictures"/>
+        path="Android/data/com.govt.updms/files/Pictures"/>
     <external-path name="external_files" path="."/>
     <!-- replace com.androidwave.filepicker with your package name -->
 </paths>
